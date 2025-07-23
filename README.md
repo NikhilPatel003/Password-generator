@@ -71,8 +71,7 @@ npm run dev
 ---
 ## 📸 Screenshots
  
-![Screenshot](./screenshot/1.png)
-![Screenshot](./screenshot/2.png)
+![Screenshot](./public/1.png)
 
 ---
 
